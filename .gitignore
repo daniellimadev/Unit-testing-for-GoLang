@@ -1,0 +1,99 @@
+# Arquivos do IntelliJ IDEA
+.idea/
+*.iml
+
+# Arquivos de compilação
+out/
+build/
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# Arquivos de log
+*.log
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de configuração de usuário
+*.iws
+*.ipr
+*.iwr
+
+# Arquivos de cache
+.gradle/
+.m2/
+
+# Arquivos de configuração do Maven
+target/
+
+# Arquivos de configuração do Gradle
+.gradle/
+build/
+
+# Arquivos de configuração do Node.js
+node_modules/
+package-lock.json
+
+# Arquivos de configuração do Python
+__pycache__/
+*.pyc
+*.pyd
+
+# Arquivos de configuração do Visual Studio Code
+.vscode/
+
+# Arquivos de configuração do Eclipse
+.settings/
+.classpath
+.project
+
+# Arquivos de configuração do NetBeans
+nbproject/
+
+# Arquivos de configuração do Android Studio
+.gradle/
+build/
+*.apk
+*.apks
+*.aar
+*.iml
+local.properties
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/dynamic.xml
+.idea/assetWizardSettings.xml
+.idea/deploymentTargetDropDown.xml
+.idea/gradle.xml
+.idea/compiler.xml
+.idea/vcs.xml
+.idea/codeStyles/
+.idea/shelf/
+.idea/runConfigurations/
+.idea/coverage/
+.idea/inspectionProfiles/
+.idea/dictionaries/
+.idea/markdown_navigator_history.xml
+.idea/remote-mappings.xml
+.idea/dataSources/
+.idea/dataSources.ids
+.idea/dataSources.xml
+.idea/dataSources.local.xml
+
+# Arquivos de configuração do VS Code
+.vscode/
+
+# Arquivos temporários do sistema
+*.swp
+*.swo
+*~
+\#*#
+
+# Arquivos de configuração do Docker
+.dockerignore
